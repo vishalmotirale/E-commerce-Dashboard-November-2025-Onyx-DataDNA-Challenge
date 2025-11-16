@@ -95,8 +95,8 @@ The dashboard has **three main sections**:
 
 ## 🧰 **Tech Stack**
 
-* **Data Cleaning & Preparation:** Python / Excel / SQL *(choose yours)*
-* **Visualization Tool:** Power BI / Tableau *(choose yours)*
+* **Data Cleaning & Preparation:** Excel 
+* **Visualization Tool:** Power BI 
 * **Dataset Size:** 2-year e-commerce transaction dataset
 
 ---
