@@ -103,11 +103,17 @@ The dashboard has **three main sections**:
 
 ## 🖼️ **Dashboard Preview**
 
-*(Add your screenshots here)*
-Example:
+## 📊 Dashboard Visuals
 
-```
-![Dashboard Overview](images/overview.png)
+### 🟦 Overall Analysis
+![Overall Dashboard](Visuals/E-commerce dashboard-vish_page-0001.jpg)
+
+### 🟩 Customer Analysis
+![Customer Dashboard](Visuals/E-commerce dashboard-vish_page-0002.jpg)
+
+### 🟧 Product Analysis
+![Product Dashboard](Visuals/E-commerce dashboard-vish_page-0001.jpg)
+
 ```
 
 ---
