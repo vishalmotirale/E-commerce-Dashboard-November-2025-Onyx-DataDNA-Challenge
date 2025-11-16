@@ -106,13 +106,13 @@ The dashboard has **three main sections**:
 ## 📊 Dashboard Visuals
 
 ### 🟦 Overall Analysis
-![E-commerce Dashboard] (Visuals/overall_page-0001.jpg)
+![E-commerce Dashboard](Visuals/Overview-0001.jpg)
 
 ### 🟩 Customer Analysis
-![Customer Dashboard](Visuals/E-commerce dashboard-vish_page-0002.jpg)
+![Customer Dashboard](Visuals/Customer-0002.jpg)
 
 ### 🟧 Product Analysis
-![Product Dashboard](Visuals/E-commerce dashboard-vish_page-0001.jpg)
+![Product Dashboard](Visuals/Products-0003.jpg)
 
 ```
 
